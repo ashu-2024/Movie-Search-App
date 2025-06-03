@@ -15,13 +15,19 @@ A responsive React application that allows users to search for movies using the 
 
 ---
 
+## 📸 Preview
+
+![Movie Search App Screenshot](https://via.placeholder.com/1000x500.png?text=App+Screenshot)
+
+---
+
 ## 🛠️ Tech Stack
 
 - **Frontend:** React, JSX, CSS
 - **API:** [OMDb API](https://www.omdbapi.com/)
 - **Libraries:** Axios
-  
----  
+
+---
 
 ## 🧑‍💻 How to Run Locally
 
