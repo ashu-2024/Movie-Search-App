@@ -17,7 +17,7 @@ A responsive React application that allows users to search for movies using the 
 
 ## 📸 Preview
 
-![Movie Search App Screenshot](https://via.placeholder.com/1000x500.png?text=App+Screenshot)
+![Movie Search App Screenshot](https://github.com/ashu-2024/Movie-Search-App/blob/main/src/assets/Snapshot.png)
 
 ---
 
