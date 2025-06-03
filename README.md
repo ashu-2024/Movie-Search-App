@@ -36,3 +36,16 @@ A responsive React application that allows users to search for movies using the 
    ```bash
    git clone https://github.com/yourusername/movie-search-app.git
    cd movie-search-app
+   npm install
+   npm run dev
+   ```
+   
+📌 Notes
+This app displays 12 popular movies on load (Avengers, Batman, Star Wars).
+
+Movie details appear in a modal at the top when a movie poster is clicked.
+
+Input clears automatically after a search is made.
+
+🙌 Author
+Developed by [Ashutosh]
