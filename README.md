@@ -1,13 +1,38 @@
-# React + Vite
+# 🎬 Movie Search App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive React application that allows users to search for movies using the [OMDb API](https://www.omdbapi.com/). Users can view popular movies by default, search for any title, and view detailed information about any movie in a stylish modal.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🔍 Search movies by title
+- 🎞️ Display popular movies by default
+- 📄 View full movie details (Genre, Plot, IMDb Rating, etc.)
+- 🖼️ Graceful fallback for missing posters
+- 📱 Fully responsive UI
+- ⚡ Fast and clean UX using Axios for API calls
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# Movie-Search-App
+---
+
+## 📸 Preview
+
+![Movie Search App Screenshot](https://via.placeholder.com/1000x500.png?text=App+Screenshot)
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React, JSX, CSS
+- **API:** [OMDb API](https://www.omdbapi.com/)
+- **Libraries:** Axios
+
+---
+
+## 🧑‍💻 How to Run Locally
+
+1. **Clone the repo:**
+
+   ```bash
+   git clone https://github.com/yourusername/movie-search-app.git
+   cd movie-search-app
